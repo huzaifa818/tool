@@ -1,0 +1,6 @@
+# Keep secrets in environment variables instead of committing them.
+# Example: export OPENROUTER_API_KEY=... and export WPSCAN_API_TOKEN=...
+openrouter_api_key: "sk-or-v1-"
+openrouter_model: "openai/gpt-4o-mini"
+wpscan_api_token: ""
+threads: 5
